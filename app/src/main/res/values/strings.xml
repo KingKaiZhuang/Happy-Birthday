@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_sam">Happy Birthday Jam!</string>
+    <string name="signature_text">From Emma</string>
+    <string name="school_number">5B0G0024</string>
+    <string name="my_name">莊鈞凱</string>
 </resources>
